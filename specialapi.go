@@ -1,9 +1,9 @@
 package specialapi
 
-const Number = 42
+const Number = "42"
 
-const RandomNumber = 4
+const RandomNumber = 6
 
-func Name() string {
+func FullName() string {
 	return "Rob Pike"
 }
